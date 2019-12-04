@@ -24,3 +24,12 @@ hs_err_pid*
 
 #Maven or Gradle
 target/
+
+# dotenv
+*.env
+
+# application properties
+main/resources/application.properties
+
+# IDE
+.idea/
