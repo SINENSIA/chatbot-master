@@ -33,3 +33,7 @@ main/resources/application.properties
 
 # IDE
 .idea/
+
+# resources
+backend/src/main/resources/
+frontend/src/main/web/node/
