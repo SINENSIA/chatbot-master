@@ -36,4 +36,5 @@ main/resources/application.properties
 
 # resources
 backend/src/main/resources/
+backend/src/main/resources/static/
 frontend/src/main/web/node/
